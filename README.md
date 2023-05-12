@@ -1,8 +1,2 @@
 # driver_drowsiness_detection_using_dlib
-driver drowsiness detection using dlib with the help of shape predictor face landmarks file
-scipy
-cv2
-pygame
-time
-dlib
-imutils
+[shape predictor](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
